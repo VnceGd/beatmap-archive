@@ -1,2 +1,4 @@
-# beatmap-archive
-Backup of some of my beatmaps
+# Beatmaps by Vncegd
+The purpose of this repository is to keep a backup and history of some of my beatmaps.
+
+osu! profile: https://osu.ppy.sh/users/4890690
