@@ -26,7 +26,7 @@ ArtistUnicode:稲葉曇
 Creator:Vncegd
 Version:Desolation
 Source:
-Tags:弦巻マキ Tsurumaki Maki vocaloid japanese rock jrock
+Tags:弦巻マキ Tsurumaki Maki Synthesizer-V AI voicebank vocaloid japanese rock jrock
 BeatmapID:3050533
 BeatmapSetID:1488003
 
@@ -606,8 +606,8 @@ Combo2 : 192,192,192
 215,99,125649,1,4,1:2:0:0:
 319,250,125849,1,4,0:3:0:0:
 368,69,126049,1,4,1:2:0:0:
-197,198,126249,5,2,0:3:0:0:
-197,198,126349,1,2,0:3:0:0:
+197,198,126249,5,4,0:3:0:0:
+197,198,126349,1,4,0:3:0:0:
 197,198,126449,1,4,1:2:0:0:
 397,282,126649,1,4,0:3:0:0:
 288,166,126849,1,4,1:2:0:0:
