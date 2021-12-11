@@ -1,0 +1,308 @@
+[Variables]
+$textSize=0.45
+$textPosLeft=-80,40
+$textPosRight=720,40
+
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"sb\pixel.png",320,240
+ M,0,-999,,320,240
+ F,0,-999,,1
+ S,0,-999,,999
+ F,0,2029,,0
+ F,0,55892,,1
+ F,0,56574,,0
+ F,0,131574,,1
+ F,0,132256,,0
+ F,0,196346,201853,1
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,TopRight,"sb\title.png",320,240
+ M,0,2029,,$textPosRight
+ S,0,2029,,$textSize
+ F,0,2029,12938,1
+Sprite,Foreground,TopLeft,"sb\title.png",320,240
+ M,0,2029,,$textPosLeft
+ F,0,2029,,0
+ S,0,2029,,$textSize
+ P,0,2029,,H
+ F,0,2029,12938,1
+Sprite,Foreground,TopLeft,"sb\nknk_ngrms.png",320,240
+ M,0,12938,,$textPosLeft
+ S,0,12938,,$textSize
+ F,0,12938,23847,1
+Sprite,Foreground,TopRight,"sb\inabakumori.png",320,240
+ M,0,12938,,$textPosRight
+ S,0,12938,,$textSize
+ F,0,12938,23847,1
+Sprite,Foreground,TopRight,"sb\lyric\01.png",320,240
+ M,0,23847,,$textPosRight
+ S,0,23847,,$textSize
+ F,0,23847,29301,1
+Sprite,Foreground,TopRight,"sb\lyric\02.png",320,240
+ M,0,29301,,$textPosRight
+ S,0,29301,,$textSize
+ F,0,29301,34415,1
+Sprite,Foreground,TopLeft,"sb\lyric\03.png",320,240
+ M,0,34756,,$textPosLeft
+ S,0,34756,,$textSize
+ F,0,34756,40210,1
+Sprite,Foreground,TopLeft,"sb\lyric\04.png",320,240
+ M,0,40210,,$textPosLeft
+ S,0,40210,,$textSize
+ F,0,40210,44983,1
+Sprite,Foreground,TopLeft,"sb\lyric\05.png",320,240
+ M,0,44983,,$textPosLeft
+ S,0,44983,,$textSize
+ F,0,44983,47710,1
+Sprite,Foreground,TopRight,"sb\lyric\06.png",320,240
+ M,0,47710,,$textPosRight
+ S,0,47710,,$textSize
+ F,0,47710,53506,1
+Sprite,Foreground,TopRight,"sb\lyric\07.png",320,240
+ M,0,53506,,$textPosRight
+ S,0,53506,,$textSize
+ F,0,53506,56574,1
+Sprite,Foreground,TopRight,"sb\lyric\c01.png",320,240
+ M,0,56574,,$textPosRight
+ S,0,56574,,$textSize
+ F,0,56574,60324,1
+Sprite,Foreground,TopLeft,"sb\lyric\c01.png",320,240
+ M,0,56574,,$textPosLeft
+ S,0,56574,,$textSize
+ P,0,56574,,H
+ F,0,56574,60324,1
+Sprite,Foreground,TopRight,"sb\lyric\c02.png",320,240
+ M,0,60324,,$textPosRight
+ F,0,60324,,1
+ S,0,60324,63051,$textSize
+Sprite,Foreground,TopLeft,"sb\lyric\c02.png",320,240
+ M,0,60324,,$textPosLeft
+ S,0,60324,,$textSize
+ P,0,60324,,H
+ F,0,60324,63051,1
+Sprite,Foreground,TopRight,"sb\lyric\c03.png",320,240
+ M,0,63051,,$textPosRight
+ S,0,63051,,$textSize
+ F,0,63051,67483,1
+Sprite,Foreground,TopLeft,"sb\lyric\c03.png",320,240
+ M,0,63051,,$textPosLeft
+ S,0,63051,,$textSize
+ P,0,63051,,H
+ F,0,63051,67483,1
+Sprite,Foreground,TopRight,"sb\lyric\c04.png",320,240
+ M,0,67483,,$textPosRight
+ S,0,67483,,$textSize
+ F,0,67483,71233,1
+Sprite,Foreground,TopLeft,"sb\lyric\c04.png",320,240
+ M,0,67483,,$textPosLeft
+ S,0,67483,,$textSize
+ P,0,67483,,H
+ F,0,67483,71233,1
+Sprite,Foreground,TopRight,"sb\lyric\c05.png",320,240
+ M,0,71233,,$textPosRight
+ S,0,71233,,$textSize
+ F,0,71233,73960,1
+Sprite,Foreground,TopLeft,"sb\lyric\c05.png",320,240
+ M,0,71233,,$textPosLeft
+ S,0,71233,,$textSize
+ P,0,71233,,H
+ F,0,71233,73960,1
+Sprite,Foreground,TopRight,"sb\lyric\c06.png",320,240
+ M,0,73960,,$textPosRight
+ S,0,73960,,$textSize
+ F,0,73960,77199,1
+Sprite,Foreground,TopLeft,"sb\lyric\c06.png",320,240
+ M,0,73960,,$textPosLeft
+ S,0,73960,,$textSize
+ P,0,73960,,H
+ F,0,73960,77199,1
+Sprite,Foreground,TopRight,"sb\lyric\c07.png",320,240
+ M,0,77199,,$textPosRight
+ S,0,77199,,$textSize
+ F,0,77199,79756,1
+Sprite,Foreground,TopLeft,"sb\lyric\c07.png",320,240
+ M,0,77199,,$textPosLeft
+ S,0,77199,,$textSize
+ P,0,77199,,H
+ F,0,77199,79756,1
+Sprite,Foreground,TopRight,"sb\lyric\08.png",320,240
+ M,0,89301,,$textPosRight
+ S,0,89301,,$textSize
+ F,0,89301,94756,1
+Sprite,Foreground,TopRight,"sb\lyric\09.png",320,240
+ M,0,94756,,$textPosRight
+ S,0,94756,,$textSize
+ F,0,94756,99869,1
+Sprite,Foreground,TopLeft,"sb\lyric\10.png",320,240
+ M,0,94756,,$textPosLeft
+ S,0,94756,,$textSize
+ F,0,94756,99869,1
+Sprite,Foreground,TopRight,"sb\lyric\11.png",320,240
+ M,0,100210,,$textPosRight
+ S,0,100210,,$textSize
+ F,0,100210,105665,1
+Sprite,Foreground,TopRight,"sb\lyric\12.png",320,240
+ M,0,105665,,$textPosRight
+ F,0,105665,,1
+ S,0,105665,110438,$textSize
+Sprite,Foreground,TopLeft,"sb\lyric\12.png",320,240
+ M,0,105665,,$textPosLeft
+ S,0,105665,,$textSize
+ P,0,105665,,H
+ F,0,105665,110438,1
+Sprite,Foreground,TopRight,"sb\lyric\13.png",320,240
+ M,0,110438,,$textPosRight
+ F,0,110438,,1
+ S,0,110438,113165,$textSize
+Sprite,Foreground,TopRight,"sb\lyric\14.png",320,240
+ M,0,113165,,$textPosRight
+ F,0,113165,,1
+ S,0,113165,120665,$textSize
+Sprite,Foreground,TopLeft,"sb\lyric\15.png",320,240
+ M,0,120665,,$textPosLeft
+ S,0,120665,,$textSize
+ F,0,120665,129358,1
+Sprite,Foreground,TopLeft,"sb\lyric\16.png",320,240
+ M,0,129358,,$textPosLeft
+ S,0,129358,,$textSize
+ F,0,129358,132256,1
+Sprite,Foreground,TopRight,"sb\lyric\c01.png",320,240
+ M,0,132256,,$textPosRight
+ S,0,132256,,$textSize
+ F,0,132256,136006,1
+Sprite,Foreground,TopLeft,"sb\lyric\c01.png",320,240
+ M,0,132256,,$textPosLeft
+ S,0,132256,,$textSize
+ P,0,132256,,H
+ F,0,132256,136006,1
+Sprite,Foreground,TopRight,"sb\lyric\c02.png",320,240
+ M,0,136006,,$textPosRight
+ F,0,136006,,1
+ S,0,136006,138733,$textSize
+Sprite,Foreground,TopLeft,"sb\lyric\c02.png",320,240
+ M,0,136006,,$textPosLeft
+ S,0,136006,,$textSize
+ P,0,136006,,H
+ F,0,136006,138733,1
+Sprite,Foreground,TopRight,"sb\lyric\c03a.png",320,240
+ M,0,138733,,$textPosRight
+ F,0,138733,,1
+ S,0,138733,140247,$textSize
+Sprite,Foreground,TopLeft,"sb\lyric\c03a.png",320,240
+ M,0,138733,,$textPosLeft
+ S,0,138733,,$textSize
+ P,0,138733,,H
+ F,0,138733,140247,1
+Sprite,Foreground,TopRight,"sb\lyric\c03b.png",320,240
+ M,0,140247,,$textPosRight
+ S,0,140247,,$textSize
+ F,0,140247,143165,1
+Sprite,Foreground,TopLeft,"sb\lyric\c03b.png",320,240
+ M,0,140247,,$textPosLeft
+ S,0,140247,,$textSize
+ P,0,140247,,H
+ F,0,140247,143165,1
+Sprite,Foreground,TopRight,"sb\lyric\c04.png",320,240
+ M,0,143165,,$textPosRight
+ S,0,143165,,$textSize
+ F,0,143165,146915,1
+Sprite,Foreground,TopLeft,"sb\lyric\c04.png",320,240
+ M,0,143165,,$textPosLeft
+ S,0,143165,,$textSize
+ P,0,143165,,H
+ F,0,143165,146915,1
+Sprite,Foreground,TopRight,"sb\lyric\c05.png",320,240
+ M,0,146915,,$textPosRight
+ S,0,146915,,$textSize
+ F,0,146915,149642,1
+Sprite,Foreground,TopLeft,"sb\lyric\c05.png",320,240
+ M,0,146915,,$textPosLeft
+ S,0,146915,,$textSize
+ P,0,146915,,H
+ F,0,146915,149642,1
+Sprite,Foreground,TopRight,"sb\lyric\c06a.png",320,240
+ M,0,149642,,$textPosRight
+ S,0,149642,,$textSize
+ F,0,149642,151176,1
+Sprite,Foreground,TopLeft,"sb\lyric\c06a.png",320,240
+ M,0,149642,,$textPosLeft
+ S,0,149642,,$textSize
+ P,0,149642,,H
+ F,0,149642,151176,1
+Sprite,Foreground,TopRight,"sb\lyric\c06b.png",320,240
+ M,0,151176,,$textPosRight
+ S,0,151176,,$textSize
+ F,0,151176,153733,1
+Sprite,Foreground,TopLeft,"sb\lyric\c06b.png",320,240
+ M,0,151176,,$textPosLeft
+ S,0,151176,,$textSize
+ P,0,151176,,H
+ F,0,151176,153733,1
+Sprite,Foreground,TopRight,"sb\lyric\c01.png",320,240
+ M,0,154074,,$textPosRight
+ S,0,154074,,$textSize
+ F,0,154074,157824,1
+Sprite,Foreground,TopLeft,"sb\lyric\c01.png",320,240
+ M,0,154074,,$textPosLeft
+ S,0,154074,,$textSize
+ P,0,154074,,H
+ F,0,154074,157824,1
+Sprite,Foreground,TopRight,"sb\lyric\c02.png",320,240
+ M,0,157824,,$textPosRight
+ S,0,157824,,$textSize
+ F,0,157824,160551,1
+Sprite,Foreground,TopLeft,"sb\lyric\c02.png",320,240
+ M,0,157824,,$textPosLeft
+ S,0,157824,,$textSize
+ P,0,157824,,H
+ F,0,157824,160551,1
+Sprite,Foreground,TopRight,"sb\lyric\c03.png",320,240
+ M,0,160551,,$textPosRight
+ S,0,160551,,$textSize
+ F,0,160551,164983,1
+Sprite,Foreground,TopLeft,"sb\lyric\c03.png",320,240
+ M,0,160551,,$textPosLeft
+ S,0,160551,,$textSize
+ P,0,160551,,H
+ F,0,160551,164983,1
+Sprite,Foreground,TopRight,"sb\lyric\c04.png",320,240
+ M,0,164983,,$textPosRight
+ S,0,164983,,$textSize
+ F,0,164983,168733,1
+Sprite,Foreground,TopLeft,"sb\lyric\c04.png",320,240
+ M,0,164983,,$textPosLeft
+ S,0,164983,,$textSize
+ P,0,164983,,H
+ F,0,164983,168733,1
+Sprite,Foreground,TopRight,"sb\lyric\c05.png",320,240
+ M,0,168733,,$textPosRight
+ S,0,168733,,$textSize
+ F,0,168733,171460,1
+Sprite,Foreground,TopLeft,"sb\lyric\c05.png",320,240
+ M,0,168733,,$textPosLeft
+ S,0,168733,,$textSize
+ P,0,168733,,H
+ F,0,168733,171460,1
+Sprite,Foreground,TopRight,"sb\lyric\c06.png",320,240
+ M,0,171460,,$textPosRight
+ S,0,171460,,$textSize
+ F,0,171460,174528,1
+Sprite,Foreground,TopLeft,"sb\lyric\c06.png",320,240
+ M,0,171460,,$textPosLeft
+ S,0,171460,,$textSize
+ P,0,171460,,H
+ F,0,171460,174528,1
+Sprite,Foreground,TopRight,"sb\lyric\c07.png",320,240
+ M,0,174528,,$textPosRight
+ S,0,174528,,$textSize
+ F,0,174528,177256,1
+Sprite,Foreground,TopLeft,"sb\lyric\c07.png",320,240
+ M,0,174528,,$textPosLeft
+ S,0,174528,,$textSize
+ P,0,174528,,H
+ F,0,174528,177256,1
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
