@@ -5,14 +5,14 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 53283
 Countdown: 0
-SampleSet: Normal
+SampleSet: None
 StackLeniency: 0.4
 Mode: 0
 LetterboxInBreaks: 0
 WidescreenStoryboard: 1
 
 [Editor]
-DistanceSpacing: 1
+DistanceSpacing: 1.1
 BeatDivisor: 4
 GridSize: 16
 TimelineZoom: 2
@@ -26,7 +26,7 @@ Creator:ElderJL
 Version:ZevinLevin's Normal
 Source:
 Tags:Tokimeki Broker vtuber
-BeatmapID:0
+BeatmapID:3505824
 BeatmapSetID:1619671
 
 [Difficulty]
@@ -125,7 +125,7 @@ Combo3 : 170,170,255
 173,43,22933,6,0,P|115:42|57:62,1,100,10|8,1:0|1:0,1:0:0:0:
 1,120,23634,1,8,1:0:0:0:
 37,213,23985,2,0,P|68:211|94:204,1,50,8|0,1:0|1:0,1:0:0:0:
-133,186,24336,2,10,P|191:185|249:205,1,100,8|8,1:0|1:0,1:0:0:0:
+133,186,24336,2,10,P|191:185|249:205,1,100,10|8,1:0|1:0,1:0:0:0:
 305,263,25038,1,8,1:0:0:0:
 384,202,25389,1,8,1:0:0:0:
 471,260,25740,5,10,1:0:0:0:
