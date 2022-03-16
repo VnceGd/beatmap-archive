@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 43245
 Countdown: 0
-SampleSet: Soft
+SampleSet: None
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -23,11 +23,11 @@ TitleUnicode:いかないで (Cut Ver.)
 Artist:Pomu Rainpuff
 ArtistUnicode:ぽむ れいんぱふ
 Creator:Tnq
-Version:ZevinLevin's Normal
+Version:ZevinLevin's Unrequited Normal
 Source:
-Tags:Tanuquee Nijisanji EN
-BeatmapID:0
-BeatmapSetID:-1
+Tags:Tanuquee Nijisanji EN ZevinLevin Vncegd hakashii Suzumiya AsphericBop GIbs Gibs
+BeatmapID:3516484
+BeatmapSetID:1715095
 
 [Difficulty]
 HPDrainRate:3
@@ -129,7 +129,7 @@ Combo4 : 255,0,128
 136,0,22355,2,0,L|71:8,1,50,8|8,0:0|0:0,0:0:0:0:
 37,14,22669,1,8,0:0:0:0:
 0,107,22983,1,2,0:0:0:0:
-70,162,23297,6,0,P|104:190|123:243,1,89.999997253418,2|2,0:0|0:0,0:0:0:0:
+70,162,23297,6,0,P|104:190|123:243,1,89.999997253418,2|2,1:0|0:0,0:0:0:0:
 126,280,23769,1,0,0:0:0:0:
 126,280,23926,2,0,P|140:327|168:359,1,89.999997253418,2|2,0:0|0:0,0:0:0:0:
 209,384,24397,1,0,0:0:0:0:
