@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 46411
 Countdown: 0
-SampleSet: Soft
+SampleSet: None
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -25,9 +25,9 @@ ArtistUnicode:IRyS
 Creator:Lavi
 Version:ZevinLevin's IRySoNormal
 Source:
-Tags:rock metal pop caesura of despair vtuber idol irys english japanese
-BeatmapID:0
-BeatmapSetID:-1
+Tags:rock metal pop caesura of despair vtuber idol irys english japanese ZevinLevin
+BeatmapID:3517237
+BeatmapSetID:1642406
 
 [Difficulty]
 HPDrainRate:3
