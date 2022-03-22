@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 43245
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -25,7 +25,7 @@ ArtistUnicode:ぽむ れいんぱふ
 Creator:Tnq
 Version:ZevinLevin's Unrequited Normal
 Source:
-Tags:Tanuquee Nijisanji EN ZevinLevin Vncegd hakashii Suzumiya AsphericBop GIbs Gibs
+Tags:Tanuquee Nijisanji EN j pop j-pop jpop female vocals vtuber virtual youtuber ZevinLevin Vncegd hakashii Suzumiya AsphericBop GIbs Gibs
 BeatmapID:3516484
 BeatmapSetID:1715095
 
@@ -312,10 +312,10 @@ Combo4 : 255,0,128
 331,313,98376,1,10,0:0:0:0:
 421,270,98690,6,0,P|445:221|442:165,1,99.9999999999999,2|10,1:0|0:0,0:0:0:0:
 438,131,99161,1,8,0:0:0:0:
-438,131,99318,2,2,B|383:124|383:124|356:112|350:76,1,99.9999999999999,0|0,1:0|0:0,0:0:0:0:
-308,2,99947,2,2,P|267:25|252:79,1,99.9999999999999,2|0,0:0|0:0,0:0:0:0:
+438,131,99318,2,2,B|383:124|383:124|356:112|350:76,1,99.9999999999999,0|8,1:0|0:0,0:0:0:0:
+308,2,99947,2,2,P|267:25|252:79,1,99.9999999999999,2|10,0:0|0:0,0:0:0:0:
 255,127,100418,1,10,0:0:0:0:
-255,127,100575,2,2,B|219:154|219:154|191:147|161:145,1,99.9999999999999,2|0,1:0|0:0,0:0:0:0:
+255,127,100575,2,2,B|219:154|219:154|191:147|161:145,1,99.9999999999999,2|8,1:0|0:0,0:0:0:0:
 66,160,101203,6,0,P|78:211|84:260,1,99.9999999999999,2|10,1:0|0:0,0:0:0:0:
 83,312,101674,1,10,0:0:0:0:
 83,312,101831,1,2,1:0:0:0:
