@@ -25,8 +25,8 @@ ArtistUnicode:Shirakami Fubuki
 Creator:Jurme
 Version:ZevinLevin's Normal
 Source:
-Tags:hololive mrs greenapple zefkiel cover 1chorus
-BeatmapID:0
+Tags:hololive mrs greenapple Zefkiel ZevinLevin cover 1chorus
+BeatmapID:3533620
 BeatmapSetID:1713438
 
 [Difficulty]
@@ -49,7 +49,6 @@ SliderTickRate:1
 //Storyboard Sound Samples
 
 [TimingPoints]
-2561,-100,4,2,1,50,0,0
 2877,315.789473684211,4,2,1,50,1,0
 12980,-100,4,2,1,40,0,0
 20245,-100,4,2,1,40,0,0

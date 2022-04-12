@@ -26,7 +26,7 @@ Creator:Aurorance
 Version:ZevinLevin's Normal
 Source:
 Tags:hololive Mori Calliope Hoshimachi Suisei rap pop song english DECO27 Naoki Itai SHINIGAMI NOTE
-BeatmapID:0
+BeatmapID:3557356
 BeatmapSetID:1738998
 
 [Difficulty]
@@ -40,6 +40,7 @@ SliderTickRate:1
 [Events]
 //Background and Video events
 0,0,"CAPSULE.jpg",0,0
+Video,0,"video.mp4"
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)

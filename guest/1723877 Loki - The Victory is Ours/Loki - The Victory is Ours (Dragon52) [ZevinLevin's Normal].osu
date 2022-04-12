@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 76977
 Countdown: 1
-SampleSet: Drum
+SampleSet: None
 StackLeniency: 0.5
 Mode: 0
 LetterboxInBreaks: 0
@@ -26,8 +26,8 @@ Creator:Dragon52
 Version:ZevinLevin's Normal
 Source:
 Tags:tales of the mountains symphonic metal instrumental rock featured artist fa
-BeatmapID:0
-BeatmapSetID:-1
+BeatmapID:3543627
+BeatmapSetID:1723877
 
 [Difficulty]
 HPDrainRate:3.5
