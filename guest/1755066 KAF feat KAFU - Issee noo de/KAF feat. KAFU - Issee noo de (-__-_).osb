@@ -296,13 +296,13 @@ Sprite,Foreground,Centre,"sb\lyric\19.png",320,240
  F,1,135883,136220,0,1
  F,0,136220,138243,1
  F,1,138243,138580,1,0
-Sprite,Foreground,Centre,"sb\lyric\27.png",320,240
+Sprite,Foreground,Centre,"sb\lyric\20.png",320,240
  M,0,138917,,320,400
  S,0,138917,,0.2
  F,1,138917,139254,0,1
  F,0,139254,146670,1
  F,1,146670,147007,1,0
-Sprite,Foreground,Centre,"sb\lyric\28.png",320,240
+Sprite,Foreground,Centre,"sb\lyric\27.png",320,240
  M,0,141276,,320,440
  S,0,141276,,0.2
  F,1,141276,141614,0,1
