@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 41856
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -16,7 +16,7 @@ Bookmarks: 10,163,317,471,625,779,933,1086,1240,1394,1548,1702,1856,2009,16471,1
 DistanceSpacing: 0.5
 BeatDivisor: 3
 GridSize: 4
-TimelineZoom: 2.4
+TimelineZoom: 1.9
 
 [Metadata]
 Title:TSUNAMI
@@ -26,7 +26,7 @@ ArtistUnicode:フィナーナ竜宮
 Creator:ZevinLevin
 Version:FIRE, WIND AND EARTH
 Source:
-Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop
+Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop _destiny tnq tanuquee
 BeatmapID:3609097
 BeatmapSetID:1690724
 
@@ -43,7 +43,7 @@ SliderTickRate:1
 0,0,"bg.jpg",0,0
 Video,0,"mv.mp4"
 //Break Periods
-2,133133,148978
+2,134779,148978
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)

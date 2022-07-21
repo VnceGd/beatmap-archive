@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 41856
 Countdown: 0
-SampleSet: None
+SampleSet: Soft
 StackLeniency: 0
 Mode: 1
 LetterboxInBreaks: 0
@@ -25,7 +25,7 @@ ArtistUnicode:フィナーナ竜宮
 Creator:ZevinLevin
 Version:HS
 Source:
-Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop
+Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop _destiny tnq tanuquee
 BeatmapID:3609098
 BeatmapSetID:1690724
 

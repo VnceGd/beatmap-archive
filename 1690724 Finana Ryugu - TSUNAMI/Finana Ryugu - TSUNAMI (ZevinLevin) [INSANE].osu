@@ -25,7 +25,7 @@ ArtistUnicode:フィナーナ竜宮
 Creator:ZevinLevin
 Version:INSANE
 Source:
-Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop
+Tags:津波 KIRA kgr㌠ riguruma nijisanji en lazulight original vtuber virtual youtuber english pop _destiny tnq tanuquee
 BeatmapID:3455053
 BeatmapSetID:1690724
 
@@ -42,7 +42,7 @@ SliderTickRate:1
 0,0,"bg.jpg",0,0
 Video,0,"mv.mp4"
 //Break Periods
-2,133440,148948
+2,134779,148948
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
