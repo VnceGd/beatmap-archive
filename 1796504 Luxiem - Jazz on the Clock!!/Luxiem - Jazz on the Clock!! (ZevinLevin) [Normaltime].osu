@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 3056
 Countdown: 0
-SampleSet: None
+SampleSet: Drum
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -13,7 +13,7 @@ WidescreenStoryboard: 1
 
 [Editor]
 DistanceSpacing: 1
-BeatDivisor: 4
+BeatDivisor: 6
 GridSize: 4
 TimelineZoom: 1.4
 
