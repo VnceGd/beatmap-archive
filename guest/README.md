@@ -4,11 +4,27 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 ## 2022
 
+2022-12-11 [Descendents - Coffee Mug](https://osu.ppy.sh/b/3915790) hosted by tutis (Hard)
+
+2022-11-30 [Kakuly x Sohukira feat. Nondesu - One Cold Day](https://osu.ppy.sh/b/3905862) hosted by too (Insane)
+
+2022-10-21 Egzod & Maestro Chives (ft. Neoni) - Royalty hosted by D r z (Insane - Not uploaded)
+
+2022-09-28 [inabakumori - SATURDAY SUNSET](https://osu.ppy.sh/b/3817128) hosted by Setsuro (Normal)
+
+2022-08-24 [gingus - homeswitcher](https://osu.ppy.sh/b/3769709) hosted by D r z (Insane)
+
+2022-08-14 [Kanaria - QUEEN](https://osu.ppy.sh/b/3752851) hosted by PokaTetris (Normal)
+
+2022-08-01 [Ouse Akira - Sacrifice (Short Ver.)](https://osu.ppy.sh/b/3732624) hosted by Ezler (Normal)
+
 2022-07-12 [MOB CHOIR - 99](https://osu.ppy.sh/b/3702851) hosted by Hiroto- (Normal)
 
 2022-07-02 [SECONDWALL - Natsu no Owari](https://osu.ppy.sh/b/3686753) hosted by -JusaF- (Normal)
 
 2022-06-26 [MAXIMUM THE HORMONE - ChuChu Lovely MuniMuni MuraMura PurinPurin Boron Nururu ReroRero](https://osu.ppy.sh/b/3682373) hosted by tutis (Hard)
+
+2022-06-12 [inabakumori - Kimi ni Kaikisen](https://osu.ppy.sh/s/1725714) hosted by xyperX (Normal - Not uploaded)
 
 2022-06-10 [KAF feat. KAFU - Issee noo de](https://osu.ppy.sh/s/1782440) hosted by Kotoha (Storyboard - reupload from https://osu.ppy.sh/s/1755066)
 

@@ -13,7 +13,7 @@ WidescreenStoryboard: 1
 
 [Editor]
 DistanceSpacing: 0.9
-BeatDivisor: 2
+BeatDivisor: 4
 GridSize: 16
 TimelineZoom: 1.9
 
@@ -25,7 +25,7 @@ ArtistUnicode:稲葉曇
 Creator:Setsuro
 Version:ZevinLevin's Normal
 Source:
-Tags:hatsune miku 初音ミク vocaloid rock japanese
+Tags:ZevinLevin Lampshade hatsune miku 初音ミク vocaloid rock japanese
 BeatmapID:3817128
 BeatmapSetID:1855179
 
