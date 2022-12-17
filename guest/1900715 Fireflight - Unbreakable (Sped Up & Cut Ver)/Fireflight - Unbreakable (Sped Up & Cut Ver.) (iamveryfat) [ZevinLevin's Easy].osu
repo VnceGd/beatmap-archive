@@ -5,7 +5,7 @@ AudioFilename: audio.mp3
 AudioLeadIn: 0
 PreviewTime: 30524
 Countdown: 0
-SampleSet: Soft
+SampleSet: None
 StackLeniency: 0.7
 Mode: 0
 LetterboxInBreaks: 0
@@ -27,7 +27,7 @@ Creator:iamveryfat
 Version:ZevinLevin's Easy
 Source:
 Tags:english rock cut nightcore christian religious kirito goopert kami no kotoba
-BeatmapID:0
+BeatmapID:3927285
 BeatmapSetID:1900715
 
 [Difficulty]
