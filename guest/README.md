@@ -16,7 +16,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2023-02-14 [PUP - Bloody Mary, Kate and Ashley](https://osu.ppy.sh/b/4014006) hosted by tutis (Normal)
 
-2023-01-06 [The Arrogant Sons Of Bitches - Last on My List](https://osu.ppy.sh/b/3957557) hosted by tutis (Normal, **Ranked 2024-01-02**)
+2023-01-06 [The Arrogant Sons Of Bitches - The Last Bell I Will Ever Hear](https://osu.ppy.sh/b/3957557) hosted by tutis (Normal, **ranked 2024-01-02**)
 
 ## 2022
 
@@ -24,11 +24,11 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2022-12-16 [Fireflight - Unbreakable (Sped Up & Cut Ver.)](https://osu.ppy.sh/b/3927285) hosted by iamveryfat (Easy)
 
-2022-12-11 [Descendents - Coffee Mug](https://osu.ppy.sh/b/3915790) hosted by tutis (Hard)
+2022-12-11 [Descendents - Coffee Mug](https://osu.ppy.sh/b/3920609) hosted by tutis (Hard)
 
 2022-11-30 [Kakuly x Sohukira feat. Nondesu - One Cold Day](https://osu.ppy.sh/b/3905862) hosted by too (Insane)
 
-2022-10-21 Egzod & Maestro Chives (ft. Neoni) - Royalty hosted by D r z (Insane - Not uploaded)
+2022-10-21 Egzod & Maestro Chives (ft. Neoni) - Royalty hosted by D r z (Insane, *not uploaded*)
 
 2022-09-28 [inabakumori - SATURDAY SUNSET](https://osu.ppy.sh/b/3817128) hosted by Setsuro (Normal)
 
@@ -44,9 +44,9 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2022-06-26 [MAXIMUM THE HORMONE - ChuChu Lovely MuniMuni MuraMura PurinPurin Boron Nururu ReroRero](https://osu.ppy.sh/b/3682373) hosted by tutis (Hard)
 
-2022-06-12 [inabakumori - Kimi ni Kaikisen](https://osu.ppy.sh/s/1725714) hosted by xyperX (Normal - Not uploaded)
+2022-06-12 [inabakumori - Kimi ni Kaikisen](https://osu.ppy.sh/s/1725714) hosted by xyperX (Normal, *not uploaded*)
 
-2022-06-10 [KAF feat. KAFU - Issee noo de](https://osu.ppy.sh/s/1782440) hosted by Kotoha (Storyboard - reupload from https://osu.ppy.sh/s/1755066)
+2022-06-10 [KAF feat. KAFU - Issee noo de](https://osu.ppy.sh/s/1782440) hosted by Kotoha (Storyboard, **ranked 2022-07-09** - reupload from https://osu.ppy.sh/s/1755066)
 
 2022-06-03 [Various Artists - GIRLS' LEGEND U (Game Ver.)](https://osu.ppy.sh/b/3641662) hosted by ilia (Insane)
 
@@ -64,7 +64,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2022-04-15 [Mia REGINA - My Sweet Maiden (TV Size)](https://osu.ppy.sh/b/3564964) hosted by ilianh (Insane)
 
-2022-04-12 [Asakura Momo - Pinky Hook (TV Size)](https://osu.ppy.sh/b/3559024) hosted by HikariBuru (Insane)
+2022-04-12 [Asakura Momo - Pinky Hook (TV Size)](https://osu.ppy.sh/b/3760803) hosted by HikariBuru (Insane)
 
 2022-04-11 [Mori Calliope x Hoshimachi Suisei - CapSule](https://osu.ppy.sh/b/3557356) hosted by Aurorance (Normal)
 
@@ -84,7 +84,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2022-03-21 [Ohta Asuka, Nagamatsu Ryo - Wii Coconut Mall](https://osu.ppy.sh/b/3524414) hosted by reiSevia (Normal)
 
-2022-03-20 [3R2 - Interlude (feat. SOOTHEMILY & Xinevsky)](https://osu.ppy.sh/b/3523928) hosted by _Destiny (Normal)
+2022-03-20 [3R2 - Interlude (feat. SOOTHEMILY & Xinevsky)](https://osu.ppy.sh/b/3710567) hosted by _Destiny (Normal)
 
 2022-03-20 [Yumeno Yuki - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? Another ver.](https://osu.ppy.sh/b/3522426) hosted by tutis (Insane)
 
@@ -100,7 +100,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 ## 2021
 
-2021-12-10 [inabakumori - Hello Marina](https://osu.ppy.sh/b/3364074) hosted by Segula (Normal + Storyboard, **Ranked 2022-02-18**)
+2021-12-10 [inabakumori - Hello Marina](https://osu.ppy.sh/b/3364074) hosted by Segula (Normal + Storyboard, **ranked 2022-02-18**)
 
 2021-11-16 [Led Zeppelin - Communication Breakdown](https://osu.ppy.sh/b/3326006) hosted by tutis (Insane)
 
@@ -112,7 +112,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2020-12-16 [Takanashi Kiara - HINOTORI (Cut Ver.)](https://osu.ppy.sh/b/2743526) hosted by LilySora (Normal)
 
-2020-11-12 xi - over the top hosted by Galaphobia (Insane, **Deleted**)
+2020-11-12 xi - over the top hosted by Galaphobia (Insane, *deleted*)
 
 2020-11-07 [Paradise Fears - Home (Sped Up & Cut Ver.)](https://osu.ppy.sh/b/2688469) hosted by we vibing (Normal)
 
