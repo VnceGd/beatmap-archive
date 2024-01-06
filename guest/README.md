@@ -2,7 +2,27 @@
 
 A list of maps where I have made or plan to make a guest contribution, ordered by initial completion date (most recent first).
 
+## 2024
+
+2024-01-06 [DJ Genki - GAME 0VER](https://osu.ppy.sh/b/4442435) hosted by Antuoniz (Normal)
+
+2024-01-05 [Tsukikage - Spatto! Spy & Spyce](https://osu.ppy.sh/b/4441563) hosted by tutis (Normal)
+
+## 2023
+
+2023-05-10 [technoplanet - Secret of the Moon](https://osu.ppy.sh/b/4134840) hosted by houndz (Normal)
+
+2023-03-08 [Tsukuyomi - Dusk and madder, dust and flower](https://osu.ppy.sh/b/4045801) hosted by D r z (Insane)
+
+2023-02-14 [PUP - Bloody Mary, Kate and Ashley](https://osu.ppy.sh/b/4014006) hosted by tutis (Normal)
+
+2023-01-06 [The Arrogant Sons Of Bitches - Last on My List](https://osu.ppy.sh/b/3957557) hosted by tutis (Normal, **Ranked 2024-01-02**)
+
 ## 2022
+
+2022-12-28 [Kanaria feat. Kanade Yoisaki x Hatsune Miku - Identity](https://osu.ppy.sh/b/3945443) hosted by PokaTetris (Normal)
+
+2022-12-16 [Fireflight - Unbreakable (Sped Up & Cut Ver.)](https://osu.ppy.sh/b/3927285) hosted by iamveryfat (Easy)
 
 2022-12-11 [Descendents - Coffee Mug](https://osu.ppy.sh/b/3915790) hosted by tutis (Hard)
 
@@ -84,7 +104,7 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2021-11-16 [Led Zeppelin - Communication Breakdown](https://osu.ppy.sh/b/3326006) hosted by tutis (Insane)
 
-2021-10-29 [RichaadEB - Agni Kai](https://osu.ppy.sh/b/3278726) hosted by tutis (Expert)
+2021-10-29 [RichaadEB - Agni Kai (Cut ver.)](https://osu.ppy.sh/b/3595709) hosted by tutis (Expert)
 
 ## As Vncegd
 
