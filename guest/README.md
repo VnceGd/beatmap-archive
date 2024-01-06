@@ -116,6 +116,6 @@ A list of maps where I have made or plan to make a guest contribution, ordered b
 
 2020-11-07 [Paradise Fears - Home (Sped Up & Cut Ver.)](https://osu.ppy.sh/b/2688469) (Normal)
 
-2020-11-06 [Momohara Natsuki (CV: Murakawa Rie) - Aozora ni Kamihikouki (TV Size)](https://osu.ppy.sh/b/2686973)(Insane)
+2020-11-06 [Momohara Natsuki (CV: Murakawa Rie) - Aozora ni Kamihikouki (TV Size)](https://osu.ppy.sh/b/2686973) (Insane)
 
 2020-08-06 [Yorushika - Haru Hisagi](https://osu.ppy.sh/b/2559000) (Insane)
